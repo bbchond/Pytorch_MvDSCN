@@ -1,6 +1,7 @@
 # MvDSCN
 :game_die: Pytorch Repo for "Multi-view Deep Subspace Clustering Networks"
-More details please see the origin repo (https://github.com/huybery/MvDSCN)
+
+For More details please see the origin repo (https://github.com/huybery/MvDSCN)
 
 [[Paper]](https://arxiv.org/abs/1908.01978) (submitted to **TIP 2019**)
 
